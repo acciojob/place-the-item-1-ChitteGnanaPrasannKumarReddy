@@ -3,7 +3,7 @@
 .holder {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between:1px;
+  justify-content: space-between;
 }
 
 .item {
